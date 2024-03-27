@@ -1,0 +1,46 @@
+﻿  Camera.cpp
+  main.cpp
+D:\facultate\an 3\sem1\gp\lab\PROIECT\proiectsper\proiectsper\main.cpp(232,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\facultate\an 3\sem1\gp\lab\PROIECT\proiectsper\proiectsper\main.cpp(233,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\facultate\an 3\sem1\gp\lab\PROIECT\proiectsper\proiectsper\main.cpp(237,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\facultate\an 3\sem1\gp\lab\PROIECT\proiectsper\proiectsper\main.cpp(238,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\facultate\an 3\sem1\gp\lab\PROIECT\proiectsper\proiectsper\main.cpp(239,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\facultate\an 3\sem1\gp\lab\PROIECT\proiectsper\proiectsper\main.cpp(240,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\facultate\an 3\sem1\gp\lab\PROIECT\proiectsper\proiectsper\main.cpp(631,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\facultate\an 3\sem1\gp\lab\PROIECT\proiectsper\proiectsper\main.cpp(757,101): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+D:\facultate\an 3\sem1\gp\lab\PROIECT\proiectsper\proiectsper\main.cpp(757,56): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+D:\facultate\an 3\sem1\gp\lab\PROIECT\proiectsper\proiectsper\main.cpp(864,14): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating code
+  78 of 1834 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    16 functions were new in current compilation
+    27 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+LINK : warning LNK4286: symbol '__glewGenBuffers' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewGenVertexArrays' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewActiveTexture' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewBufferData' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewGetUniformLocation' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewUniform1i' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewBindBuffer' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewVertexAttribPointer' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewBindVertexArray' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewEnableVertexAttribArray' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewDeleteBuffers' defined in 'libglew32.lib(glew.obj)' is imported by 'Model3D.obj'
+LINK : warning LNK4286: symbol '__glewGenerateMipmap' defined in 'libglew32.lib(glew.obj)' is imported by 'Model3D.obj'
+LINK : warning LNK4286: symbol '__glewDeleteVertexArrays' defined in 'libglew32.lib(glew.obj)' is imported by 'Model3D.obj'
+LINK : warning LNK4286: symbol '__glewLinkProgram' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewDeleteShader' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewGetProgramInfoLog' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewShaderSource' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewAttachShader' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewGetProgramiv' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewGetShaderInfoLog' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewCreateProgram' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewCreateShader' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewCompileShader' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewGetShaderiv' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewUseProgram' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewUniformMatrix4fv' defined in 'libglew32.lib(glew.obj)' is imported by 'SkyBox.obj'
+LINK : warning LNK4286: symbol 'glewInit' defined in 'libglew32.lib(glew.obj)' is imported by 'Window.obj'
+LINK : warning LNK4286: symbol 'glewExperimental' defined in 'libglew32.lib(glew.obj)' is imported by 'Window.obj'
+  proiectsper.vcxproj -> D:\facultate\an 3\sem1\gp\lab\PROIECT\proiectsper\x64\Release\proiectsper.exe

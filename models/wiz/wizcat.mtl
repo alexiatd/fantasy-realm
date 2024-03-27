@@ -1,0 +1,32 @@
+# Blender 3.6.4 MTL File: 'forest-observatory.blend'
+# www.blender.org
+
+newmtl Material.022
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd hatUV.png
+
+newmtl cateye
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 0.642901 0.006489
+Ni 1.450000
+illum 2
+map_Kd cateye.png
+map_d cateye.png
+
+newmtl flamesprite
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.020450 0.446971 1.000000
+Ni 1.450000
+illum 2
+map_Kd flamesprite.png
+map_d flamesprite.png
